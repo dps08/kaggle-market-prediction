@@ -1,7 +1,7 @@
 # Hull Tactical Market Prediction - Final Project
 
 **Student:** Divit Pratap Singh  
-**Course:** Machine Learning / Data Mining  
+**Course:** Machine Learning  
 **Competition:** [Kaggle Hull Tactical](https://www.kaggle.com/competitions/hull-tactical-market-prediction)
 
 ## Project Overview
